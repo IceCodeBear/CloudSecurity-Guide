@@ -6,7 +6,7 @@ function App() {
     <div className="App">
     <header className="App-header">
       <p>
-        This is CloudSecurity-Guide
+        Welcome to the Cloud Security Guide!
       </p>
     </header>
   </div>
